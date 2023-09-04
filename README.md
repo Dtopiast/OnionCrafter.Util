@@ -49,4 +49,4 @@ Si deseas contribuir a esta librería, ¡te damos la bienvenida! Puedes hacerlo 
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia Mozilla Public v. 2](LICENSE.txt). Consulta el archivo LICENSE.txt para obtener más información.
+Este proyecto está bajo la [Licencia Mozilla Public v. 2](LICENSE). Consulta el archivo LICENSE.txt para obtener más información.
