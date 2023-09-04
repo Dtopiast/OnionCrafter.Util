@@ -27,7 +27,7 @@ A continuación, encontrará una lista de algunas de las bibliotecas de extensi�
 
 4. **[OnionCrafter.Utils.Exception](https://github.com/Dtopiast/OnionCrafter.Utils.Exception)**: Ofrece utilidades para el manejo de excepciones en aplicaciones .NET, facilitando la gestión de errores y excepciones.
 
-5. **[OnionCrafter.Utils.Json](https://github.com/Dtopiast/OnionCrafter.Utils.Json)**: Proporciona utilidades para trabajar con JSON en proyectos .NET, incluyendo serialización y deserialización.
+5. **[OnionCrafter.Util.Json](https://github.com/Dtopiast/OnionCrafter.Util.Json)**: Proporciona utilidades para trabajar con JSON en proyectos .NET, incluyendo serialización y deserialización.
 
 ## Uso
 
@@ -37,7 +37,7 @@ Cada biblioteca de extensión tiene su propio archivo README que proporciona inf
 - [OnionCrafter.Util.Object](https://github.com/Dtopiast/OnionCrafter.Util.Object)
 - [OnionCrafter.Util.BinarySerialization](https://github.com/Dtopiast/OnionCrafter.Util.BinarySerialization)
 - [OnionCrafter.Utils.Exception](https://github.com/Dtopiast/OnionCrafter.Utils.Exception)
-- [OnionCrafter.Utils.Json](https://github.com/Dtopiast/OnionCrafter.Utils.Json) 
+- [OnionCrafter.Util.Json](https://github.com/Dtopiast/OnionCrafter.Util.Json) 
 
 ## Contribuir
 
