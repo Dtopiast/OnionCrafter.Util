@@ -27,7 +27,7 @@ A continuación, encontrará una lista de algunas de las bibliotecas de extensi�
 
 4. **[OnionCrafter.Utils.Exception](https://github.com/Dtopiast/OnionCrafter.Utils.Exception)**: Ofrece utilidades para el manejo de excepciones en aplicaciones .NET, facilitando la gestión de errores y excepciones.
 
-5. **[OnionCrafter.Util.Json](https://github.com/Dtopiast/OnionCrafter.Util.Json)**: Proporciona utilidades para trabajar con JSON en proyectos .NET, incluyendo serialización y deserialización.
+5. **[OnionCrafter.Util.Logger](https://github.com/Dtopiast/OnionCrafter.Util.Logger)**: Proporciona utilidades para trabajar con el logging de acciones.
 
 ## Uso
 
@@ -37,15 +37,15 @@ Cada biblioteca de extensión tiene su propio archivo README que proporciona inf
 - [OnionCrafter.Util.Object](https://github.com/Dtopiast/OnionCrafter.Util.Object)
 - [OnionCrafter.Util.BinarySerialization](https://github.com/Dtopiast/OnionCrafter.Util.BinarySerialization)
 - [OnionCrafter.Utils.Exception](https://github.com/Dtopiast/OnionCrafter.Utils.Exception)
-- [OnionCrafter.Util.Json](https://github.com/Dtopiast/OnionCrafter.Util.Json) 
+- [OnionCrafter.Util.Logger](https://github.com/Dtopiast/OnionCrafter.Util.Logger) 
 
 ## Contribuir
 
 Si deseas contribuir a esta librería, ¡te damos la bienvenida! Puedes hacerlo de las siguientes maneras:
 
-1. **Informa problemas:** Si encuentras algún problema o error, por favor, abre un [issue](https://github.com/dtopiast/OnionCrafter.Wrapper.Response.Baset/issues).
+1. **Informa problemas:** Si encuentras algún problema o error, por favor, abre un [issue](https://github.com/dtopiast/OnionCrafter.Util/issues).
 
-2. **Envía Pull Requests:** Si deseas agregar nuevas características o corregir errores existentes, no dudes en enviar un [pull request](https://github.com/dtopiast/OnionCrafter.Wrapper.Response.Base/pulls).
+2. **Envía Pull Requests:** Si deseas agregar nuevas características o corregir errores existentes, no dudes en enviar un [pull request](https://github.com/dtopiast/OnionCrafter.Util/pulls).
 
 ## Licencia
 
